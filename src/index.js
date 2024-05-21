@@ -4,11 +4,11 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 import Header from './composants/Header';
 import { Route, Routes, BrowserRouter } from 'react-router-dom';
- import Banner from './composants/Banner';
+
 import  PageAccueil  from './pages/PageAccueil';
 import Apropos from './pages/Apropos';
 import { PageErreur } from './pages/PageErreur';
-import { Link } from 'react-router-dom';
+
 import { Footer } from './composants/Footer';
 import { Logement } from './pages/Logement';
 

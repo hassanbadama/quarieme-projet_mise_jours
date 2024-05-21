@@ -1,12 +1,10 @@
 import React from "react";
-import image from "../images/about.png"
+
 import imageG from "../images/arrow_left.png"
 import imageD from "../images/arrow_right.png"
-import etole from "../images/etoile.png"
+
 import "../style/Slide.css"
-import { Link } from "react-router-dom";
-import Collabs from "../composants/Collabs";
-import img1 from "../images/g.png"
+
 import { useState } from "react";
 
 
